@@ -1,4 +1,4 @@
-## QLOCKTWO &reg;Web
+## QLOCKTWO&reg; Web App
 
 A small web app project to improve my css / jquery / responsive design skills. The website resembles the iconic QLOCKTWO by Biegert & Funk.
 
